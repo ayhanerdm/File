@@ -1,5 +1,5 @@
 <?php
-namespace ayhanerdm\File
+namespace ayhanerdm
 {
     class File
     {
