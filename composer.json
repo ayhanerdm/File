@@ -5,6 +5,9 @@
 	"homepage": "https://github.com/ayhanerdm/File",
 	"type": "library",
 	"license": "MIT",
+	"require": {
+		"php": ">=7.0"
+	}
 	"authors": [
 		{
 			"name": "Özgür Ayhan Erdem",
