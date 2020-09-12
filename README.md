@@ -1,2 +1,1 @@
-# File
- A PHP class to manipulate files.
+# PHP Class: ayhanerdm/File
