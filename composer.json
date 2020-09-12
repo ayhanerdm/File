@@ -1,0 +1,20 @@
+{
+	"name": "ayhanerdm/File",
+	"description": "File and directory manipulation class.",
+	"keywords": ["fopen"],
+	"homepage": "https://github.com/ayhanerdm/File",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Özgür Ayhan Erdem",
+			"email": "ayhanerdm@gmail.com",
+			"homepage": "https://github.com/ayhanerdm",
+			"role": "Creator"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/ayhanerdm/File",
+		"source": "https://github.com/ayhanerdm/File"
+    }
+}
