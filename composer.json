@@ -22,5 +22,5 @@
 	},
 	"autoload": {
         "classmap": ["lib/"]
-    },
+    }
 }
